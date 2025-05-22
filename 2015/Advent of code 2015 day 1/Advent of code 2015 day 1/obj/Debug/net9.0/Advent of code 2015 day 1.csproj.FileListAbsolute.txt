@@ -1,0 +1,14 @@
+C:\Users\mathi\RiderProjects\Advent of code 2015 day 1\Advent of code 2015 day 1\bin\Debug\net9.0\Advent of code 2015 day 1.exe
+C:\Users\mathi\RiderProjects\Advent of code 2015 day 1\Advent of code 2015 day 1\bin\Debug\net9.0\Advent of code 2015 day 1.deps.json
+C:\Users\mathi\RiderProjects\Advent of code 2015 day 1\Advent of code 2015 day 1\bin\Debug\net9.0\Advent of code 2015 day 1.runtimeconfig.json
+C:\Users\mathi\RiderProjects\Advent of code 2015 day 1\Advent of code 2015 day 1\bin\Debug\net9.0\Advent of code 2015 day 1.dll
+C:\Users\mathi\RiderProjects\Advent of code 2015 day 1\Advent of code 2015 day 1\bin\Debug\net9.0\Advent of code 2015 day 1.pdb
+C:\Users\mathi\RiderProjects\Advent of code 2015 day 1\Advent of code 2015 day 1\obj\Debug\net9.0\Advent of code 2015 day 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\RiderProjects\Advent of code 2015 day 1\Advent of code 2015 day 1\obj\Debug\net9.0\Advent of code 2015 day 1.AssemblyInfoInputs.cache
+C:\Users\mathi\RiderProjects\Advent of code 2015 day 1\Advent of code 2015 day 1\obj\Debug\net9.0\Advent of code 2015 day 1.AssemblyInfo.cs
+C:\Users\mathi\RiderProjects\Advent of code 2015 day 1\Advent of code 2015 day 1\obj\Debug\net9.0\Advent of code 2015 day 1.csproj.CoreCompileInputs.cache
+C:\Users\mathi\RiderProjects\Advent of code 2015 day 1\Advent of code 2015 day 1\obj\Debug\net9.0\Advent of code 2015 day 1.dll
+C:\Users\mathi\RiderProjects\Advent of code 2015 day 1\Advent of code 2015 day 1\obj\Debug\net9.0\refint\Advent of code 2015 day 1.dll
+C:\Users\mathi\RiderProjects\Advent of code 2015 day 1\Advent of code 2015 day 1\obj\Debug\net9.0\Advent of code 2015 day 1.pdb
+C:\Users\mathi\RiderProjects\Advent of code 2015 day 1\Advent of code 2015 day 1\obj\Debug\net9.0\Advent of code 2015 day 1.genruntimeconfig.cache
+C:\Users\mathi\RiderProjects\Advent of code 2015 day 1\Advent of code 2015 day 1\obj\Debug\net9.0\ref\Advent of code 2015 day 1.dll

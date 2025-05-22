@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advent of Code 2023 Day 2", "Advent of Code 2023 Day 2\Advent of Code 2023 Day 2.csproj", "{508C3793-1D7D-4F93-B036-C0CF4F1FDB37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{508C3793-1D7D-4F93-B036-C0CF4F1FDB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508C3793-1D7D-4F93-B036-C0CF4F1FDB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508C3793-1D7D-4F93-B036-C0CF4F1FDB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508C3793-1D7D-4F93-B036-C0CF4F1FDB37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

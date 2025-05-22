@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AdventofCode 2015 Day2/1.0.0": {
+        "runtime": {
+          "AdventofCode 2015 Day2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdventofCode 2015 Day2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

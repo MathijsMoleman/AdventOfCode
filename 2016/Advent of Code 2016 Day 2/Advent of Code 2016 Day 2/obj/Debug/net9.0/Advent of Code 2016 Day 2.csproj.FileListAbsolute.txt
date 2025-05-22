@@ -1,0 +1,14 @@
+C:\Advent of Code\2016\Advent of Code 2016 Day 2\Advent of Code 2016 Day 2\bin\Debug\net9.0\Advent of Code 2016 Day 2.exe
+C:\Advent of Code\2016\Advent of Code 2016 Day 2\Advent of Code 2016 Day 2\bin\Debug\net9.0\Advent of Code 2016 Day 2.deps.json
+C:\Advent of Code\2016\Advent of Code 2016 Day 2\Advent of Code 2016 Day 2\bin\Debug\net9.0\Advent of Code 2016 Day 2.runtimeconfig.json
+C:\Advent of Code\2016\Advent of Code 2016 Day 2\Advent of Code 2016 Day 2\bin\Debug\net9.0\Advent of Code 2016 Day 2.dll
+C:\Advent of Code\2016\Advent of Code 2016 Day 2\Advent of Code 2016 Day 2\bin\Debug\net9.0\Advent of Code 2016 Day 2.pdb
+C:\Advent of Code\2016\Advent of Code 2016 Day 2\Advent of Code 2016 Day 2\obj\Debug\net9.0\Advent of Code 2016 Day 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Advent of Code\2016\Advent of Code 2016 Day 2\Advent of Code 2016 Day 2\obj\Debug\net9.0\Advent of Code 2016 Day 2.AssemblyInfoInputs.cache
+C:\Advent of Code\2016\Advent of Code 2016 Day 2\Advent of Code 2016 Day 2\obj\Debug\net9.0\Advent of Code 2016 Day 2.AssemblyInfo.cs
+C:\Advent of Code\2016\Advent of Code 2016 Day 2\Advent of Code 2016 Day 2\obj\Debug\net9.0\Advent of Code 2016 Day 2.csproj.CoreCompileInputs.cache
+C:\Advent of Code\2016\Advent of Code 2016 Day 2\Advent of Code 2016 Day 2\obj\Debug\net9.0\Advent of Code 2016 Day 2.dll
+C:\Advent of Code\2016\Advent of Code 2016 Day 2\Advent of Code 2016 Day 2\obj\Debug\net9.0\refint\Advent of Code 2016 Day 2.dll
+C:\Advent of Code\2016\Advent of Code 2016 Day 2\Advent of Code 2016 Day 2\obj\Debug\net9.0\Advent of Code 2016 Day 2.pdb
+C:\Advent of Code\2016\Advent of Code 2016 Day 2\Advent of Code 2016 Day 2\obj\Debug\net9.0\Advent of Code 2016 Day 2.genruntimeconfig.cache
+C:\Advent of Code\2016\Advent of Code 2016 Day 2\Advent of Code 2016 Day 2\obj\Debug\net9.0\ref\Advent of Code 2016 Day 2.dll

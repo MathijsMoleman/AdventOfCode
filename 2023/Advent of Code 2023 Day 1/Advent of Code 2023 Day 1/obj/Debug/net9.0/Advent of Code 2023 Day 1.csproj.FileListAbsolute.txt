@@ -1,0 +1,14 @@
+C:\Advent of Code\2023\Advent of Code 2023 Day 1\Advent of Code 2023 Day 1\bin\Debug\net9.0\Advent of Code 2023 Day 1.exe
+C:\Advent of Code\2023\Advent of Code 2023 Day 1\Advent of Code 2023 Day 1\bin\Debug\net9.0\Advent of Code 2023 Day 1.deps.json
+C:\Advent of Code\2023\Advent of Code 2023 Day 1\Advent of Code 2023 Day 1\bin\Debug\net9.0\Advent of Code 2023 Day 1.runtimeconfig.json
+C:\Advent of Code\2023\Advent of Code 2023 Day 1\Advent of Code 2023 Day 1\bin\Debug\net9.0\Advent of Code 2023 Day 1.dll
+C:\Advent of Code\2023\Advent of Code 2023 Day 1\Advent of Code 2023 Day 1\bin\Debug\net9.0\Advent of Code 2023 Day 1.pdb
+C:\Advent of Code\2023\Advent of Code 2023 Day 1\Advent of Code 2023 Day 1\obj\Debug\net9.0\Advent of Code 2023 Day 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Advent of Code\2023\Advent of Code 2023 Day 1\Advent of Code 2023 Day 1\obj\Debug\net9.0\Advent of Code 2023 Day 1.AssemblyInfoInputs.cache
+C:\Advent of Code\2023\Advent of Code 2023 Day 1\Advent of Code 2023 Day 1\obj\Debug\net9.0\Advent of Code 2023 Day 1.AssemblyInfo.cs
+C:\Advent of Code\2023\Advent of Code 2023 Day 1\Advent of Code 2023 Day 1\obj\Debug\net9.0\Advent of Code 2023 Day 1.csproj.CoreCompileInputs.cache
+C:\Advent of Code\2023\Advent of Code 2023 Day 1\Advent of Code 2023 Day 1\obj\Debug\net9.0\Advent of Code 2023 Day 1.dll
+C:\Advent of Code\2023\Advent of Code 2023 Day 1\Advent of Code 2023 Day 1\obj\Debug\net9.0\refint\Advent of Code 2023 Day 1.dll
+C:\Advent of Code\2023\Advent of Code 2023 Day 1\Advent of Code 2023 Day 1\obj\Debug\net9.0\Advent of Code 2023 Day 1.pdb
+C:\Advent of Code\2023\Advent of Code 2023 Day 1\Advent of Code 2023 Day 1\obj\Debug\net9.0\Advent of Code 2023 Day 1.genruntimeconfig.cache
+C:\Advent of Code\2023\Advent of Code 2023 Day 1\Advent of Code 2023 Day 1\obj\Debug\net9.0\ref\Advent of Code 2023 Day 1.dll
